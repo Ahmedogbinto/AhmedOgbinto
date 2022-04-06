@@ -1,11 +1,21 @@
-### Hi there 👋
+Hey Hey, Moi c'est Ahmed. Pour être plus complet  Ahmed Ogbinto.👋
 
-<!--
-**Ahmedogbinto/AhmedOgbinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je commence par vous poser d'abord une petite question: Comment vous identifiez-vous dans l'univers du code
 
-Here are some ideas to get you started:
+- Recruteurs:  Qui recherchez-vous?
 
-- 🔭 I’m currently working on ...
+- Professionels: Qui êtes-vous? Développeur Web - Développeur logiciel full Stack - Développeur Systèmes embarqués - Codeur
+
+On n'a fait de vite s'embrouiller dans cet univers de technologies qui ne cessent d'évoluer. Aussi bien les recruteurs que les pro.
+
+Moi, je me défini comme:                        
+
+                                                    DÉVELOPPEUR WEB
+
+
+Here are some ideas to get you started:,
+
+- 🔭  Je travaille  actuellemet que 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
