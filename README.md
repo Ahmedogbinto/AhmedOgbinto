@@ -40,7 +40,7 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 [![img_contact](./img/linkedn.PNG)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/#gh-light-mode-only)
 
 ### Langage and Tools
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-html5-plain colored"></i>
 
 
 
