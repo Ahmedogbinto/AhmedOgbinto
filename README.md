@@ -36,6 +36,8 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 # GH-LIGHT-MODE-ONLY
 # GH-DARK-MODE-ONLY
 
+### CONNECT WITH ME
+[![img_contact](./img/LinkedIn.svg)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/)
 
 
 
