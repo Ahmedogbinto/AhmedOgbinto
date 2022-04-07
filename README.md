@@ -33,11 +33,11 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 
 - ⚡ Je vous raconterai l'anecdote sur mon pseudonyme plus tard.
 
-# GH-LIGHT-MODE-ONLY
-# GH-DARK-MODE-ONLY
+# gh-light-mode-only
+# gh-dark-mode-only
 
 ### CONNECT WITH ME
-[![img_contact](./img/linkdn.png)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/)
+[![img_contact](./img/linkedin.jpg)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/#gh-light-mode-only)
 
 
 
