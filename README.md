@@ -37,7 +37,7 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 # gh-dark-mode-only
 
 ### CONNECT WITH ME
-[![img_contact](./img/linkedn.ico)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/#gh-light-mode-only)
+[![img_contact](./img/linkedn.PNG)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/#gh-light-mode-only)
 
 
 
