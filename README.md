@@ -65,7 +65,7 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
         <i class="devicon-vuejs-plain colored"></i>
         <i class="devicon-nodejs-plain colored"></i>
         <i class="devicon-meteor-plain colored"></i>
-        [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
+        [<img widht="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
     </body>
 </html>
     
