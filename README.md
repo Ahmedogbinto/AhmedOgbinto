@@ -15,9 +15,9 @@ Moi, je me défini comme:
 
 - 🔭  Je travaille actuellement avec des technologies HTML - CSS - JAVASCRIPT - JQUERY - AJAX - PHP - SQL - MySQL - WORDPRESS
 
-J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: ANGULAR JS - REACT JS - VUS JS 
+J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: ANGULAR JS - REACT JS - VUS JS, BACKEND: NODE JS et son framework EXPRESS 
                                       
-                                                                     BACKEND: NODE JS et son framework EXPRESS
+                                                                     
                                                                      
 - 🌱 Actuellemnent j'ai un regard attentif sur les frameworks fullstack MEAN et METEOR
 
