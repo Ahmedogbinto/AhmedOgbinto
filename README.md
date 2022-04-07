@@ -38,6 +38,13 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 
 ### CONNECT WITH ME
 [![img_contact](./img/linkedn.PNG)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/#gh-light-mode-only)
+[![img_contact](./img/linkedn.PNG)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/#gh-dark-mode-only)
+[![img_contact](./img/meta.PNG)](https://www.facebook.com/ahmed.ogbinto/#gh-light-mode-only)
+[![img_contact](./img/meta.PNG)](https://www.facebook.com/ahmed.ogbinto/#gh-dark-mode-only)
+[![img_contact](./img/twitter.PNG)](https://www.twitter.com/AOgbinto/#gh-light-mode-only)
+[![img_contact](./img/twitter.PNG)](https://www.twitter.com/AOgbinto/#gh-dark-mode-only)
+[![img_contact](./img/instagram.PNG)](https://www.instagram.com/ahmed_ogbinto/#gh-light-mode-only)
+[![img_contact](./img/instagram.PNG)](https://www.instagram.com/ahmed_ogbinto/#gh-dark-mode-only)
 
 ### Langage and Tools
 <i class="devicon-html5-plain colored"></i>
