@@ -26,10 +26,10 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 - 🤔 Je continue toujours d'apprendre à
 
 - 💬 Interroge moi sur la patience et la persévérance et je te répondrai que c'est le code informatique 😄
-- 
+
 - 📫 MAIL ME: ahmedogbinto@gmail.com
-- 
+
 - 😄 ~BouBou~ pseudonyme. J'apprécie
 
 - ⚡ Je vous raconterai l'anecdote sur mon pseudonyme plus tard.
--->
+
