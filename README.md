@@ -11,16 +11,25 @@ On n'a fait de vite s'embrouiller dans cet univers de technologies qui ne cessen
 Moi, je me défini comme:                        
 
                                                     DÉVELOPPEUR WEB
+                                              
 
+- 🔭  Je travaille actuellement avec des technologies HTML - CSS - JAVASCRIPT - JQUERY - AJAX - PHP - SQL - MySQL - WORDPRESS
 
-Here are some ideas to get you started:,
+J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: ANGULAR JS - REACT JS - VUS JS 
+                                      
+                                                                     BACKEND: NODE JS et son framework EXPRESS
+                                                                     
+- 🌱 Actuellemnent j'ai un regard attentif sur les frameworks fullstack MEAN et METEOR
 
-- 🔭  Je travaille  actuellemet que 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 J'aimerais collaborer sur des projets professionnels
+
+- 🤔 Je continue toujours d'apprendre à
+
+- 💬 Interroge moi sur la patience et la persévérance et je te répondrai que c'est le code informatique 😄
+- 
+- 📫 MAIL ME: ahmedogbinto@gmail.com
+- 
+- 😄 ~BouBou~ pseudonyme. J'apprécie
+
+- ⚡ Je vous raconterai l'anecdote sur mon pseudonyme plus tard.
 -->
