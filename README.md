@@ -56,18 +56,21 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right: 11px;"/>
-<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right: 11px;" /> <br />
+<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right: 11px;" /> 
+<br />
 
-### learning...<br />
-
+### learning...
+<br />
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right: 11px;" />
-<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" style="padding-right: 11px;"/>
+<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" style="padding-right: 11px;"/> 
+<br />
+<br />
 
-### GITHUB STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedO&count_private=true)
+### GITHUB STATS <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedogbinto&count_private=true)
     
 
 
