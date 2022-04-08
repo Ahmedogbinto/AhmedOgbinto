@@ -47,27 +47,8 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 [![img_contact](./img/instagram.PNG)](https://www.instagram.com/ahmed_ogbinto/#gh-dark-mode-only)
 
 ### Langage and Tools
-<!DOCTYPE html>
-<html>
-    <head>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    </head>
-    <body>
-        <i class="devicon-html5-plain colored"></i>
-        <i class="devicon-css3-plain colored"></i>
-        <i class="devicon-jquery-plain colored"></i>
-        <i class="devicon-javascript-plain colored"></i>
-        <i class="devicon-php-plain colored"></i>
-        <i class="devicon-mysql-plain colored"></i>
-        <i class="devicon-wordpress-plain colored"></i>
-        <i class="devicon-angularjs-plain colored"></i>
-        <i class="devicon-react-original colored"></i>
-        <i class="devicon-vuejs-plain colored"></i>
-        <i class="devicon-nodejs-plain colored"></i>
-        <i class="devicon-meteor-plain colored"></i>
-        <img widht="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
-    </body>
-</html>
+
+[<img align="left alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 11px;" />
     
 
 
