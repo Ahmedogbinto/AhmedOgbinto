@@ -48,7 +48,7 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 
 ### Langage and Tools
 
-[<img  alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 11px;" />]
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 11px;" />
     
 
 
