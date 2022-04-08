@@ -65,6 +65,9 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right: 11px;" />
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" style="padding-right: 11px;"/>
+
+### GITHUB STATS
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedO&count_private=true)
     
 
 
