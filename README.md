@@ -56,9 +56,10 @@ J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: A
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right: 11px;"/>
-<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right: 11px;" />
+<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right: 11px;" /> <br />
 
-### learning...
+### learning...<br />
+
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right: 11px;"/>
