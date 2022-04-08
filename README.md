@@ -1,37 +1,25 @@
-Hey Hey, Moi c'est Ahmed. Pour être plus complet  Ahmed Ogbinto.👋
+Hey Hey, I'm Ahmed. To be more complete Ahmed Ogbinto.👋
 
-Je commence par vous poser d'abord une petite question: Comment vous identifiez-vous dans l'univers du code
+I start by first asking you a small question: How do you identify yourself in the world of code
 
-- Recruteurs:  Qui recherchez-vous?
+- Recruiters: Who are you looking for?
 
-- Professionels: Qui êtes-vous? Développeur Web - Développeur logiciel full Stack - Développeur Systèmes embarqués - Codeur
+- Professionals: Who are you? Web Developer - Full Stack Software Developer - Embedded Systems Developer - Coder
 
-On n'a fait de vite s'embrouiller dans cet univers de technologies qui ne cessent d'évoluer. Aussi bien les recruteurs que les pro.
+We quickly got confused in this universe of technologies that are constantly evolving. Both recruiters and pros.
 
-Moi, je me défini comme:                        
+I define myself as: WEB DEVELOPER                      
 
-                                                    DÉVELOPPEUR WEB
-                                              
-
-- 🔭  Je travaille actuellement avec des technologies HTML - CSS - JAVASCRIPT - JQUERY - AJAX - PHP - SQL - MySQL - WORDPRESS
-
-J'ai une passion spécial pour le langage JAVASCRIPT; ses frameworks FRONTEND: ANGULAR JS - REACT JS - VUS JS, BACKEND: NODE JS et son framework EXPRESS 
-                                      
+                                                                                              
+- 🔭  LOOKING FOR JOB, GOOD!                                                           
                                                                      
-                                                                     
-- 🌱 Actuellemnent j'ai un regard attentif sur les frameworks fullstack MEAN et METEOR
+- 🌱 Currently I have a close look at the full stack MEAN and METEOR frameworks
 
-- 👯 J'aimerais collaborer sur des projets professionnels
+- 🤔 I keep learning, again and again
 
-- 🤔 Je continue toujours d'apprendre à
+- 💬 ask me about anything 😄
 
-- 💬 Interroge moi sur la patience et la persévérance et je te répondrai que c'est le code informatique 😄
-
-- 📫 MAIL ME: ahmedogbinto@gmail.com
-
-- 😄 ~BouBou~ pseudonyme. J'apprécie
-
-- ⚡ Je vous raconterai l'anecdote sur mon pseudonyme plus tard.
+- 📫 ahmedogbinto@gmail.com
 
 # gh-light-mode-only
 # gh-dark-mode-only
