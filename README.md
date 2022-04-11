@@ -35,6 +35,8 @@ I define myself as: WEB DEVELOPER
 [![img_contact](./img/instagram.PNG)](https://www.instagram.com/ahmed_ogbinto/#gh-dark-mode-only)
 
 ### LANGAGE AND TOOLS...<br />
+<img  align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right: 11px;"/> - 
+
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 11px;" />
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 11px;" />
@@ -44,9 +46,7 @@ I define myself as: WEB DEVELOPER
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right: 11px;"/>
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right: 11px;"/>
-<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right: 11px;" /> 
-
-<img  align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right: 11px;"/> <br />
+<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right: 11px;" /> <br />
 
 ### LEARNING...<br />
 <img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right: 11px;"/>
