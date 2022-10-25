@@ -1,19 +1,11 @@
-Hey Hey, I'm Ahmed. To be more complete Ahmed Ogbinto.👋
+ Hey, I'm Ahmed 👋
 
-I start by first asking you a small question: How do you identify yourself in the world of code
 
-- Recruiters: Who are you looking for?
-
-- Professionals: Who are you? Web Developer - Full Stack Software Developer - Embedded Systems Developer - Coder
-
-We quickly got confused in this universe of technologies that are constantly evolving. Both recruiters and pros.
-
-I define myself as: WEB DEVELOPER                      
-
+💬 The growing challenges of the web make its development demanding. Professionals must have increasingly specific skills.              
                                                                                               
-- 🔭  LOOKING FOR JOB, GOOD!                                                           
+- 🔭  LOOKING FOR JOB?  Why not !!                                                           
                                                                      
-- 🌱 Currently I have a close look at the full stack MEAN and METEOR frameworks
+- 🌱 Currently I have a close look at the ReactJS et AngularJS frameworks
 
 - 🤔 I keep learning, again and again
 
