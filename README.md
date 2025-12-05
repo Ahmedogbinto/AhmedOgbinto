@@ -17,8 +17,7 @@
 # gh-dark-mode-only
 
 ### CONNECT WITH ME
-[![img_contact](./img/linkedn.PNG)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/#gh-light-mode-only)
-[![img_contact](./img/linkedn.PNG)](https://www.linkedin.com/in/ahmed-ogbinto-880002103/#gh-dark-mode-only)
+
 
 
 ### LANGAGE AND TOOLS...<br />
